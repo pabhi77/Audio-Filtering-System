@@ -11,17 +11,21 @@ The system successfully detects and censors offensive words in real-time, which 
 
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/d09df4fb-fd18-4b93-afdb-9e9b31ce4721) 
+
 Table 1. Sample data
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/a2352b5d-0d2f-4630-b891-f0d66bcd6fe2)
+
 Fig. 1. Accuracy of model.
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/69d079bc-bf5e-4645-9e0a-40d71042cf6f)
+
 Screenshort while running system locally.
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/8be71d96-0d55-48e1-87bc-e8dd1c7645f8)
 table 2. Less offensive word substitution.
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/c6e51c6f-a88f-4836-b00a-93578822d643)
+
 Fig. 2. Distribution of Prefix words followed by Offensive words 
 
