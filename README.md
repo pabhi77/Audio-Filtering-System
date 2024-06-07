@@ -1,14 +1,53 @@
-# Real-Time-Audio-Filter
-Developed a system that could detect and censor offensive words in real-time during live conversations. I was motivated to work on this due to the increasing need for respectful and safe communication in digital interactions.
+## Audio Filtering System Project
 
-The primary objective was to create a system that could automatically detect offensive language and replace it with a beep sound during live audio streams, ensuring a more respectful conversation environment.
+### Introduction
+The "Audio Filtering System" project addresses the challenge of moderating and filtering offensive or unwanted words within audio streams using advanced speech recognition and audio processing techniques. It aims to create a positive audio environment across various communication platforms by identifying and removing undesired content in real-time.
 
-To achieve this, I fine-tuned a pre-trained BERT model for offensive word detection. I chose BERT for its effectiveness in understanding the context in language. The project was developed using TensorFlow, PyTorch, and Python, with PyCharm as the IDE.
+### Overview and Problem Statement
+The system processes audio input, converts speech to text, and identifies offensive words from a predefined blacklist. These words are then replaced with beep sounds, providing uninterrupted, moderated audio content.
 
-I manually created a dataset of offensive words of marathi language and trained the model on this dataset. The training process was challenging but ultimately successful, achieving an accuracy of 96.56%.
+### Motivation
+The project is motivated by the increasing demand for respectful and safe communication platforms. It leverages advanced technology to foster positive and inclusive interactions, promoting constructive dialogue across diverse platforms.
 
-The system successfully detects and censors offensive words in real-time, which can be particularly useful in various digital communication platforms.
+### Key Features
+1. **Accessibility**: Designed to be user-friendly and accessible to individuals of all technical backgrounds.
+2. **Timesaving**: Automates the content moderation process, saving users from manual intervention.
+3. **Customization**: Allows users to define their own blacklist of unwanted words, tailoring the system to their specific needs.
 
+### Objectives
+1. **Develop a Classification Model**: Create a machine learning model to identify offensive words.
+2. **Word Replacement or Censoring**: Replace offensive words with beeps or softer alternatives.
+3. **Audio File Generation**: Modify audio files to reflect the censored content.
+4. **Predictive Censoring**: Estimate the probability of offensive words before they are spoken for proactive moderation.
+
+### Application Areas
+1. **Media and Entertainment**: Censor offensive language in live and recorded content.
+2. **Customer Service and Call Centers**: Maintain professional communication standards.
+3. **Educational Platforms**: Ensure safe and respectful learning environments.
+4. **Social Media**: Efficiently moderate live and recorded content.
+5. **Public Safety**: Monitor audio for aggressive or threatening speech.
+
+### System Analysis and Design
+**Technology Stack**:
+- Python
+- SpeechRecognition Library
+- Pydub
+- PyCharm
+- TensorFlow
+- PyTorch
+- Flask
+
+**Hardware Requirements**:
+- Microphone
+- Speakers or Headphones
+
+### Implementation
+1. **Training the Model**: Use BERT for offensive word detection in Marathi text, fine-tuning it for accuracy.
+2. **Word Replacement**: Replace detected offensive words in audio with beeps or alternatives.
+3. **Audio Modification**: Adjust the original audio to reflect the censored content.
+4. **Predictive Analysis**: Analyze prefixes in transcribed audio data to understand patterns leading to offensive language.
+
+### Conclusion
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/d09df4fb-fd18-4b93-afdb-9e9b31ce4721) 
 
