@@ -48,6 +48,10 @@ The project is motivated by the increasing demand for respectful and safe commun
 4. **Predictive Analysis**: Analyze prefixes in transcribed audio data to understand patterns leading to offensive language.
 
 ### Conclusion
+The Audio Filtering System project provides an innovative and comprehensive solution for moderating offensive content in audio streams, promoting a safer and more respectful communication environment.
+
+
+
 
 ![image](https://github.com/pratikr10/Real-Time-Audio-Filter/assets/109615455/d09df4fb-fd18-4b93-afdb-9e9b31ce4721) 
 
