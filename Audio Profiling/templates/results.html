@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100%;
+        }
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+         h1 {
+            text-align: center;
+            color: #333;
+        }
+        img {
+            width: 100%; /* Responsive images */
+            max-width: 600px; /* Limit size */
+            height: auto;
+            margin: 10px auto;
+            display: block;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            border-radius: 4px;
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .container {
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Analysis Results</h1>
+    <table>
+        <tr>
+            <th>File Name</th>
+            <th>Number of Offensive Words</th>
+            <th>Level of Offense</th>
+            <th>Offensive Words in File</th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row['File Name'] }}</td>
+            <td>{{ row['Number of Offensive Words'] }}</td>
+            <td>{{ row['Level of Offense'] }}</td>
+            <td>{{ row['Offensive Words in the File'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <div class="container">
+        {% for image in images %}
+            <img src="{{ url_for('static', filename=image) }}" alt="{{ image }}" title="{{ image }}">
+        {% endfor %}
+    </div>
+
+</body>
+</html>

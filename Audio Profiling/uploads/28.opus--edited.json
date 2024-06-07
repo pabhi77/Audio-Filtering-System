@@ -1,0 +1,60 @@
+{
+    "id": "930e647b-dbeb-47c7-8727-4e39e7a3056a",
+    "recordId": "ayp1436gmailcom_1714370409722_2119833063",
+    "filename": "28.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.2,
+                    "end": 1.1,
+                    "duration": 0.90000004,
+                    "text": "अरे",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.1,
+                    "end": 1.6,
+                    "duration": 0.5,
+                    "text": "मुर्खा",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.6,
+                    "end": 2,
+                    "duration": 0.39999998,
+                    "text": "किती",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2,
+                    "end": 2.3,
+                    "duration": 0.29999995,
+                    "text": "वाजले",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.6,
+                    "duration": 0.29999995,
+                    "text": "बघा",
+                    "conf": 0.4,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

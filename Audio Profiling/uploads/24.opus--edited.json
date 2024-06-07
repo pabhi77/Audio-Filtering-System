@@ -1,0 +1,60 @@
+{
+    "id": "60a3c375-ff10-479b-bbd0-dd1b2406abaf",
+    "recordId": "ayp1436gmailcom_1714370409722_1146441929",
+    "filename": "24.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.2,
+                    "end": 1.2,
+                    "duration": 1,
+                    "text": "एवढे",
+                    "conf": 0.65,
+                    "pristine": true
+                },
+                {
+                    "start": 1.2,
+                    "end": 1.8,
+                    "duration": 0.5999999,
+                    "text": "घाटासाठी",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.8,
+                    "end": 2.3,
+                    "duration": 0.5,
+                    "text": "करू",
+                    "conf": 0.62,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.5,
+                    "duration": 0.20000005,
+                    "text": "नये",
+                    "conf": 0.61,
+                    "pristine": true
+                },
+                {
+                    "start": 2.5,
+                    "end": 2.7,
+                    "duration": 0.20000005,
+                    "text": "बरं",
+                    "conf": 0.65,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

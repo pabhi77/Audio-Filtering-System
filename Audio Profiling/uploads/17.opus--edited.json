@@ -1,0 +1,60 @@
+{
+    "id": "c56a512a-ca24-4703-ba90-2072d2de0a71",
+    "recordId": "ayp1436gmailcom_1714370409722_2091203912",
+    "filename": "17.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.1,
+                    "end": 1,
+                    "duration": 0.9,
+                    "text": "किती",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1,
+                    "end": 1.6,
+                    "duration": 0.6,
+                    "text": "मतिमंद",
+                    "conf": 0.55,
+                    "pristine": true
+                },
+                {
+                    "start": 1.6,
+                    "end": 1.9,
+                    "duration": 0.29999995,
+                    "text": "मुलगा",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.9,
+                    "end": 2.3,
+                    "duration": 0.39999998,
+                    "text": "आहेस",
+                    "conf": 0.72,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.3,
+                    "duration": 0,
+                    "text": "तू",
+                    "conf": 0.9,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

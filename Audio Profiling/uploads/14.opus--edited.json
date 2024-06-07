@@ -1,0 +1,84 @@
+{
+    "id": "bc532887-4c87-462f-842e-fed1410335e1",
+    "recordId": "ayp1436gmailcom_1714370409722_2117875931",
+    "filename": "14.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.1,
+                    "end": 1,
+                    "duration": 0.9,
+                    "text": "किती",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1,
+                    "end": 1.6,
+                    "duration": 0.6,
+                    "text": "बेअक्कल",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.6,
+                    "end": 2.1,
+                    "duration": 0.49999988,
+                    "text": "आहेस",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.1,
+                    "end": 2.3,
+                    "duration": 0.20000005,
+                    "text": "तू",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.9,
+                    "duration": 0.60000014,
+                    "text": "कळते",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.9,
+                    "end": 3,
+                    "duration": 0.099999905,
+                    "text": "का",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 3,
+                    "end": 3.2,
+                    "duration": 0.20000005,
+                    "text": "तुला",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 3.2,
+                    "end": 3.6,
+                    "duration": 0.39999986,
+                    "text": "काही",
+                    "conf": 0.9,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

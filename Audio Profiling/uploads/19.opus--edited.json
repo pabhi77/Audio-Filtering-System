@@ -1,0 +1,44 @@
+{
+    "id": "5c1dc092-7017-46ea-9709-7a21eff64cc8",
+    "recordId": "ayp1436gmailcom_1714370409722_2062574761",
+    "filename": "19.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0,
+                    "end": 0.8,
+                    "duration": 0.8,
+                    "text": "ए",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 0.8,
+                    "end": 1.4,
+                    "duration": 0.59999996,
+                    "text": "कुत्र्या",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.4,
+                    "end": 2.1,
+                    "duration": 0.6999999,
+                    "text": "लायकीचा",
+                    "conf": 0.57,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

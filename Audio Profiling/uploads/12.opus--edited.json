@@ -1,0 +1,52 @@
+{
+    "id": "2d2fe3b1-c8b7-496d-856b-3a2303dc5751",
+    "recordId": "ayp1436gmailcom_1714370409722_2060617629",
+    "filename": "12.opus",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0.1,
+                    "end": 1,
+                    "duration": 0.9,
+                    "text": "या",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1,
+                    "end": 2.2,
+                    "duration": 1.2,
+                    "text": "हरामखोरांना",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.2,
+                    "end": 2.6,
+                    "duration": 0.39999986,
+                    "text": "अक्कल",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.6,
+                    "end": 3.1,
+                    "duration": 0.5,
+                    "text": "घडवली",
+                    "conf": 0.68,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}

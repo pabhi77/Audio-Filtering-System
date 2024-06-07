@@ -1,0 +1,148 @@
+{
+    "id": "27ef6876-56fc-4386-a146-2921b70ae2ff",
+    "recordId": "pratikrathodwalchandsangliacin_1709054887433_1112264649",
+    "filename": "record-1709053078569.wav",
+    "startTimeOffset": 0,
+    "speakers": [
+        {
+            "spkid": "spk1",
+            "name": "Speaker 1"
+        }
+    ],
+    "segments": [
+        {
+            "speaker": "spk1",
+            "words": [
+                {
+                    "start": 0,
+                    "end": 1.4,
+                    "duration": 1.4,
+                    "text": "हॅलो",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 1.4,
+                    "end": 1.7,
+                    "duration": 0.30000007,
+                    "text": "अरे",
+                    "conf": 0.88,
+                    "pristine": true
+                },
+                {
+                    "start": 1.7,
+                    "end": 1.8,
+                    "duration": 0.099999905,
+                    "text": "तू",
+                    "conf": 0.89,
+                    "pristine": true
+                },
+                {
+                    "start": 1.8,
+                    "end": 2.2,
+                    "duration": 0.4000001,
+                    "text": "मूर्ख",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.2,
+                    "end": 2.3,
+                    "duration": 0.099999905,
+                    "text": "आहेस",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.3,
+                    "end": 2.5,
+                    "duration": 0.20000005,
+                    "text": "का",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.5,
+                    "end": 2.6,
+                    "duration": 0.099999905,
+                    "text": "तू",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.6,
+                    "end": 2.9,
+                    "duration": 0.3000002,
+                    "text": "असा",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 2.9,
+                    "end": 3,
+                    "duration": 0.099999905,
+                    "text": "का",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 3,
+                    "end": 3.4,
+                    "duration": 0.4000001,
+                    "text": "वागतो",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 3.4,
+                    "end": 3.89999,
+                    "duration": 0.4,
+                    "text": "निर्लज्जासारखा",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 3.9,
+                    "end": 4.6,
+                    "duration": 0.6999998,
+                    "text": "बिन्डोक",
+                    "conf": 0.76,
+                    "pristine": true
+                },
+                {
+                    "start": 4.6,
+                    "end": 4.7,
+                    "duration": 0.099999905,
+                    "text": "आहे",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 4.7,
+                    "end": 4.8,
+                    "duration": 0.10000038,
+                    "text": "का",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 4.8,
+                    "end": 5.1,
+                    "duration": 0.2999997,
+                    "text": "थोडा",
+                    "conf": 0.9,
+                    "pristine": true
+                },
+                {
+                    "start": 5.1,
+                    "end": 5.2,
+                    "duration": 0.099999905,
+                    "text": "तू",
+                    "conf": 0.75,
+                    "pristine": true
+                }
+            ]
+        }
+    ],
+    "highlights": []
+}
